@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://georgegu.github.io/georgegu-ai-blogs/notes.html</loc>
+    <lastmod>2024-02-07T06:13:16.627Z</lastmod>
+  </url>
+  <url>
     <loc>https://georgegu.github.io/georgegu-ai-blogs/about.html</loc>
-    <lastmod>2024-02-07T06:03:44.840Z</lastmod>
+    <lastmod>2024-02-07T06:13:16.623Z</lastmod>
   </url>
   <url>
     <loc>https://georgegu.github.io/georgegu-ai-blogs/notes/Large Language Models/phi1.html</loc>
-    <lastmod>2024-02-07T06:03:44.844Z</lastmod>
+    <lastmod>2024-02-07T06:13:16.627Z</lastmod>
   </url>
   <url>
     <loc>https://georgegu.github.io/georgegu-ai-blogs/index.html</loc>
-    <lastmod>2024-02-07T06:03:44.840Z</lastmod>
+    <lastmod>2024-02-07T06:13:16.627Z</lastmod>
   </url>
   <url>
     <loc>https://georgegu.github.io/georgegu-ai-blogs/posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html</loc>
-    <lastmod>2024-02-07T06:03:44.892Z</lastmod>
-  </url>
-  <url>
-    <loc>https://georgegu.github.io/georgegu-ai-blogs/notes.html</loc>
-    <lastmod>2024-02-07T06:03:44.844Z</lastmod>
+    <lastmod>2024-02-07T06:13:16.675Z</lastmod>
   </url>
 </urlset>
