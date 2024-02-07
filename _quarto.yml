@@ -7,6 +7,8 @@ website:
   site-url: https://georgegu.github.io/georgegu-ai-blogs
   navbar:
     left:
+      - text: "{{< fa pen >}} Articles"
+        file: index.qmd
       - text: "{{< fa pen >}} Notes"
         file: notes.qmd
       - text: "{{< fa address-card >}} About"
