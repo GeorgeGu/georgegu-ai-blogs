@@ -7,6 +7,13 @@
     "text": "👋 Greetings! My name is George Gu, and I am currently an AI architect at Modernizing Medcine. I hold a M.Sc. degree in computer science from Tsinghua University In this blog, I would like to share some of my works in LLM and Alignments.\nLet’s build a better open community of AI\nIf you want to contact me, please feel free to send an email at this address.\n\nCredits:\n\nEmojis used in figures are designed by OpenMoji, the open-source emoji and icon project. License: CC BY-SA 4.0.\nVector icons are provided by Streamline (https://streamlinehq.com). License: CC BY-SA 4.0."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": " Articles",
+    "section": "",
+    "text": "Fine-Tune Your Own Llama 2 Model in a Colab Notebook\n\n\nA practical introduction to LLM fine-tuning\n\n\n\nLarge Language Models\n\n\n\n\n\n\nJul 24, 2023\n\n\n10 min\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html",
     "href": "posts/Fine_Tune_Your_Own_Llama_2_Model_in_a_Colab_Notebook.html",
     "title": "Fine-Tune Your Own Llama 2 Model in a Colab Notebook",
@@ -65,12 +72,5 @@
       "🗣️ **Large language models**",
       "1. Fine-tune Llama 2 in Colab"
     ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": " Articles",
-    "section": "",
-    "text": "Fine-Tune Your Own Llama 2 Model in a Colab Notebook\n\n\nA practical introduction to LLM fine-tuning\n\n\n\nLarge Language Models\n\n\n\n\n\n\nJul 24, 2023\n\n\n10 min\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
